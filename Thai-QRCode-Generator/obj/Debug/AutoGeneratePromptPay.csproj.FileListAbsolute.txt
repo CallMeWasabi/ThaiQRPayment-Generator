@@ -1,0 +1,14 @@
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\bin\Debug\AutoGeneratePromptPay.exe.config
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\bin\Debug\AutoGeneratePromptPay.exe
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\bin\Debug\AutoGeneratePromptPay.pdb
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\bin\Debug\QRCoder.dll
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.csproj.AssemblyReference.cache
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.Form1.resources
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.Properties.Resources.resources
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.csproj.GenerateResource.cache
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.csproj.CoreCompileInputs.cache
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.csproj.CopyComplete
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.exe
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.pdb
+C:\Users\Wasabi\source\repos\AutoGeneratePromptPay\AutoGeneratePromptPay\obj\Debug\AutoGeneratePromptPay.PaymentForm.resources
